@@ -4,12 +4,12 @@
 
 An end-to-end multimodal AI fine-tuned on the VQA-RAD dataset for medical image analysis. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himanshutewatia771/Medical-VQA-Assistant/blob/main/gemma_4_.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Himanshu-tewatia0/Medical-VQA-Assistant/blob/main/gemma_4.ipynb)
 *(Click to run the complete Gradio UI on a Free Google T4 GPU)*
 
 ## 🎥 Live Video Demo
 Watch the AI bypass safety filters and analyze the X-Ray in real-time:
-[Click here to watch the Video Demo](https://github.com/himanshutewatia771/Medical-VQA-Assistant/raw/main/Medical_VQA_Demo.mp4)
+[Click here to watch the Video Demo](https://github.com/Himanshu-tewatia0/Medical-VQA-Assistant/raw/main/Medical_VQA_Demo.mp4)
 
 ## 🧠 Technical Highlights
 * **Base Model:** Gemma-4 (4.5B Parameters)
